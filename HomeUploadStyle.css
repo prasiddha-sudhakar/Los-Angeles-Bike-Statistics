@@ -1,0 +1,93 @@
+@CHARSET "ISO-8859-1";
+
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+h1
+{
+	
+    color: white;
+    text-transform: uppercase;s
+    font-size: 80px;
+    text-align: center;
+    
+}
+
+h2
+{
+    color: white;
+    text-transform: uppercase;s
+    font-size: 80px;
+    text-align: center;
+    
+}
+
+body, html {
+    height: 100%;
+}
+
+header
+{
+    background-image:url(782.JPG);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ 
+}
+
+
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.btn-one
+{
+    background-color: darkorange;
+    font-family: "Roboto", sans-serif;
+    align-items: center;
+}
+
+.btn-two {
+	
+	background-color: darkorange;
+    font-family: "Roboto", sans-serif;
+    align-items: center;
+	
+}
+
+.box {
+  background-color: white;
+  border: 1px solid orange ;
+  align-items: center;
+  position: absolute;
+  height: 40%;
+  width: 60%;
+  left: 20%;
+  top: 30%;
+}
+
+.firstparagraph {
+	font-family: "Roboto", sans-serif;
+	 text-align: center;
+}
+
+.functionsOfProduct {
+	font-family: "Roboto", sans-serif;
+}
